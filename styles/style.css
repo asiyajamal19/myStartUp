@@ -1,0 +1,33 @@
+/* font family nunito  */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.nunito {
+    font-family: "Nunito", sans-serif;
+}
+
+/* font family lato  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.lato {
+    font-family: "Lato", sans-serif;
+}
+
+/* font family luckiest for bolding  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Luckiest+Guy&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.luckiest {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+:root {
+    --darkYellow: #f9BE08;
+    --lightYellow: #EFD30B;
+    --extraLight: #f9F8f4;
+    --simpleGray: #Dfdfd9;
+    --dark: #1a1a19;
+}
